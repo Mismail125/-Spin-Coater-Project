@@ -21,7 +21,7 @@ Buck Converter
 ON/OFF Switch
 
 🔌 Circuit Design
-<img width="8704" height="4262" alt="Spincoater diagram" src="https://github.com/user-attachments/assets/b434a28d-2cf9-48be-9b48-6f848c5b5451" />
+<img width="870" height="426" alt="Spincoater diagram" src="https://github.com/user-attachments/assets/b434a28d-2cf9-48be-9b48-6f848c5b5451" />
 
 
 (Add circuit diagram in /circuit folder)
