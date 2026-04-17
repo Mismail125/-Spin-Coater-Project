@@ -3,6 +3,7 @@
 Thanks to "https://github.com/klotzsch-lab/Maasi" for hardware design i used.
 
 This project focuses on designing and building a spin coater system used for uniform thin film deposition. It combines mechanical design, electronics, and control systems.
+
 **Demo Video**
  
 https://github.com/user-attachments/assets/f73357d4-ef4b-49ec-80db-75a862345f85
