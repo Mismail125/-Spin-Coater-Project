@@ -1,3 +1,6 @@
+// Project: Digital Spin Coater
+// Author: Mismail
+// Description: PID-based RPM control with HMI interface
 #include <elapsedMillis.h>
 #include <FreqMeasure.h>
 #include <ServoTimer2.h>
