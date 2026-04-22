@@ -6,7 +6,6 @@ This project focuses on designing and building a spin coater system used for uni
 
 **Demo Video**
 
-https://github.com/user-attachments/assets/e0fda0b0-6889-4bda-abe8-318eeb32caf4
 
 **Features**
 
