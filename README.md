@@ -7,6 +7,10 @@ This project focuses on designing and building a spin coater system used for uni
 **Demo Video**
 
 
+https://github.com/user-attachments/assets/e55f6c8a-0874-40f7-b2f4-df324f9f126f
+
+
+
 **Features**
 
 * vacuumless chuck (vacuum chuck functionality will be added next version).
