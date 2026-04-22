@@ -22,14 +22,14 @@ A small amount of liquid is deposited on a substrate, which is then rotated at h
 
 **Components Used**
 
-BLDC Motor
-BLDC Motor RPM sensor
-Arduino Uno
-Blheli_S ESC
-12V Power supply
-Buck Converter 
-3D printed Enclosure & rotating platform
-ON/OFF Switch
+* BLDC Motor
+* BLDC Motor RPM sensor
+* Arduino Uno
+* Blheli_S ESC
+* 12V Power supply
+* Buck Converter 
+* 3D printed Enclosure & rotating platform
+* ON/OFF Switch
 
 **Circuit Design**
 
